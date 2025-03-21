@@ -5,7 +5,7 @@ const app = express()
 const port = 3000
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('me bol raha hu tu nikla ja yha se !')
 })
 app.get('/login',(req,res) => {
     res.send('Bhai Login page hai ye')
