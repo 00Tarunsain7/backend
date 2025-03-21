@@ -10,9 +10,9 @@
     "code",
     "node",
     "chai",
-    "js"
+    "js"            
   ],
-  "author": "\"tarun sain\"",
+  "author": "tarun sain",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
